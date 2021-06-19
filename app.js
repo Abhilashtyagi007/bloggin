@@ -8,7 +8,7 @@ const { urlencoded } = require('express');
 
 const blogRoutes = require('./routes/blogRoutes');
 
-const port = 8080;
+const port = 5000;
 
 
 
